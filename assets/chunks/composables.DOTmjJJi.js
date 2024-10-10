@@ -1,0 +1,1 @@
+import{h as t}from"./theme.CRx0UkKg.js";import{d as s,o as c,b as r,k as l}from"./framework.CBvYo8eD.js";const _=s({__name:"composables",setup(p){const{node:n,value:o}=t({placeholder:"maxlength 5",maxLength:5});function a(e){console.log("change:",e,o.value)}return(e,u)=>(c(),r(l(n),{onChange:a}))}});export{_ as default};
