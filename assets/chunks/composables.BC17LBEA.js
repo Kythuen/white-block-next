@@ -1,0 +1,1 @@
+import{l as s}from"./theme.CYRSML_O.js";import{d as t,o as l,b as c,k as r}from"./framework.uyLDs8jX.js";const m=t({__name:"composables",setup(u){const{node:o,value:a}=s({defaultValue:!0,shape:"rectangle"});function n(e){console.log("change:",e,a.value)}return(e,p)=>(l(),c(r(o),{onChange:n}))}});export{m as default};

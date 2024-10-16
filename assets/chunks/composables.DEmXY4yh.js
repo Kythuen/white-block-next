@@ -1,0 +1,1 @@
+import{e as n}from"./theme.CYRSML_O.js";import{d as s,o as l,b as c,w as r,a as p,k as i}from"./framework.uyLDs8jX.js";const m=s({__name:"composables",setup(d){const{node:t}=n({type:"plain"});function a(e){console.log("click:",e)}return(e,o)=>(l(),c(i(t),{onClick:a},{default:r(()=>o[0]||(o[0]=[p(" button ")])),_:1}))}});export{m as default};
