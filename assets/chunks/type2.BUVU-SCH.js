@@ -1,0 +1,1 @@
+import{d as a,B as r,o as s,b as p,w as _,a as t,G as c}from"./framework.uyLDs8jX.js";const i=a({__name:"type2",setup(u){const o=()=>c("div",null,[t("pre")]);return(d,e)=>{const n=r("wb-button");return s(),p(n,{prefix:o},{default:_(()=>e[0]||(e[0]=[t("button")])),_:1})}}});export{i as default};

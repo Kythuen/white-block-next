@@ -1,0 +1,1 @@
+import{d as s,B as t,o as _,b as l,w as p,G as a}from"./framework.uyLDs8jX.js";const u=s({__name:"event",setup(r){function e(o){console.log(o)}return(o,g)=>{const n=t("wb-toggle"),c=t("wb-space");return _(),l(c,null,{default:p(()=>[a(n,{onChange:e}),a(n,{onChange:e})]),_:1})}}});export{u as default};
