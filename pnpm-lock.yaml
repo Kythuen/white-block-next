@@ -241,7 +241,7 @@ importers:
         version: 2.4.0(esbuild@0.23.1)
       '@iconify-json/codicon':
         specifier: ^1.1.48
-        version: 1.2.0
+        version: 1.2.3
       '@iconify-json/mdi':
         specifier: ^1.1.55
         version: 1.2.0
@@ -1238,8 +1238,8 @@ packages:
   '@iarna/toml@2.2.5':
     resolution: {integrity: sha512-trnsAYxU3xnS1gPHPyU961coFyLkh4gAD/0zQ5mymY4yOZ+CYvsPqUbOFSw0aDM4y0tV7tiFxL/1XfXPNC6IPg==}
 
-  '@iconify-json/codicon@1.2.0':
-    resolution: {integrity: sha512-KkqHpVq1guUqKgnhsG8xK+l3rX6sBc+CKB6icQKfabRpqCEpJWmG83IrZkCcD0A7CTghRRSwtrMPqpEvY8EwkA==}
+  '@iconify-json/codicon@1.2.3':
+    resolution: {integrity: sha512-RsSVuUmR8CS83reLuLw0h+RCZORtUhsyEESQmMpbAFYG/W1vXWwVxIOCKS+zReQqRY8+Gtz4Lszm+AqifBDvUw==}
 
   '@iconify-json/heroicons@1.2.0':
     resolution: {integrity: sha512-EmvGN0L9EUJCmQ82rkLGZ4tkz0YGQfZV7ugKT6UvHni/bxNitQrD0gLj6NJj2W9zsSoXyNHyCX236+EJmO4pmA==}
@@ -6294,7 +6294,7 @@ snapshots:
       '@types/node': 20.5.1
       chalk: 4.1.2
       cosmiconfig: 8.3.6(typescript@5.6.2)
-      cosmiconfig-typescript-loader: 4.4.0(@types/node@20.5.1)(cosmiconfig@8.3.6(typescript@5.6.2))(ts-node@10.9.2(@types/node@20.5.1)(typescript@5.6.2))(typescript@5.6.2)
+      cosmiconfig-typescript-loader: 4.4.0(@types/node@20.5.1)(cosmiconfig@8.3.6(typescript@5.6.2))(ts-node@10.9.2(@types/node@20.16.7)(typescript@5.0.2))(typescript@5.6.2)
       lodash.isplainobject: 4.0.6
       lodash.merge: 4.6.2
       lodash.uniq: 4.5.0
@@ -6626,7 +6626,7 @@ snapshots:
   '@iarna/toml@2.2.5':
     optional: true
 
-  '@iconify-json/codicon@1.2.0':
+  '@iconify-json/codicon@1.2.3':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -8237,7 +8237,7 @@ snapshots:
 
   core-util-is@1.0.3: {}
 
-  cosmiconfig-typescript-loader@4.4.0(@types/node@20.5.1)(cosmiconfig@8.3.6(typescript@5.6.2))(ts-node@10.9.2(@types/node@20.5.1)(typescript@5.6.2))(typescript@5.6.2):
+  cosmiconfig-typescript-loader@4.4.0(@types/node@20.5.1)(cosmiconfig@8.3.6(typescript@5.6.2))(ts-node@10.9.2(@types/node@20.16.7)(typescript@5.0.2))(typescript@5.6.2):
     dependencies:
       '@types/node': 20.5.1
       cosmiconfig: 8.3.6(typescript@5.6.2)
